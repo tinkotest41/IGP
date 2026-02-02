@@ -1,0 +1,90 @@
+Good job agent!
+✅ 1.  Adjust the whole app UI / UX
+
+
+
+• Cyber-style modern design
+
+• Dark & light mode
+
+• soft cyberlike Micro animations + subtle animated background
+
+also enhance the signup, login and user dashboard too. 
+
+
+✅2. Signup & KYC
+
+
+
+• Country field on signup should be a dropdown
+
+• Referral link not working → fix referral tracking very important 
+
+• KYC should not auto-set to pending
+
+• Simple KYC: select id type, national, drivers and the rest and one image upload
+
+• Admin can view see not submitted users, approve, reject KYC
+
+
+
+✅ 3. Admin dashboard
+
+Should have it’s own currency converter to NGN, ghc and the rest like in the user dashboard. 
+
+also admin section should be optimized to be fully functional and responsive in mobile everything should also work on mobile including the admin menu bar 
+Finance on the passcode generator section, you know this app is strictly by referral and every users before sign in should get a passcode from our telegram bot and these codes will be pre generated from the passcode generator and it will work and show which level subscribe to correctly. Just ADMIN001 shouldn’t be only passcode. 
+
+
+
+
+✅ 4. Enhance ui of user dashboard Withdrawals page 
+
+
+
+Improve withdrawals (status, validation, admin approval) although I think it already work but can’t test it cos referral count is not working and admin can’t change a user referral count and earnings
+
+
+
+
+
+✅5. Referrals
+
+
+
+• Admin can set referral amount per user
+
+• Referral earnings must calculate correctly
+
+
+
+✅ 4. Membership Levels
+
+
+
+• check the previous 3 membership level and Add 3 new membership levels
+
+• Show on landing page & user dashboard
+
+
+
+✅ 5. Task System on the admin dashboard 
+
+
+
+• Add more platforms (Snapchat, Facebook, etc.)
+
+• Add custom task option
+
+• Admin task management: where we see all assigned task and if to all users yes if to specific user show too..
+
+• Create tasks
+
+• Assign to all users or specific users
+
+• View all tasks ever created. 
+
+
+
+Also the other everything you have synced give me a complete sql code to connect to supabase in the future and make sure the password is visible in supabase and every admin previledge works do not omit anything critically analyze
+
